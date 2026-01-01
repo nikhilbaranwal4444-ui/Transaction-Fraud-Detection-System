@@ -2,7 +2,7 @@
 The dataset used in this project is too large to be hosted on GitHub.
 
 You can download it from:
-https://docs.google.com/spreadsheets/d/1pXsTrZUB_RHUNKL6GJqJn3gkaxtyMv3v/edit?usp=drive_link&ouid=104824650724224032267&rtpof=true&sd=true
+https://drive.google.com/file/d/1fL43e1xica6jlf2hPl6NrnoTgdgPGB_-/view?usp=drive_link
 
 Project Overview
 
