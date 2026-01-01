@@ -1,3 +1,9 @@
+## Dataset Access
+The dataset used in this project is too large to be hosted on GitHub.
+
+You can download it from:
+https://docs.google.com/spreadsheets/d/1pXsTrZUB_RHUNKL6GJqJn3gkaxtyMv3v/edit?usp=drive_link&ouid=104824650724224032267&rtpof=true&sd=true
+
 Project Overview
 
 This project focuses on detecting fraudulent transactions in a large-scale mobile money dataset using rule-based fraud detection techniques and feature engineering. The dataset simulates real-world financial transactions with highly imbalanced fraud cases.
